@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Jul 2018 17:02:43 at https://colorlib.com/polygon/elaadmin/index1.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://colorlib.com/polygon/elaadmin/index1.html -O1 "D:\ELAADMIN" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:03:34	Error: 	"Not Found" (404) at link https://colorlib.com/polygon/elaadmin/css/lib/owl.video.play.png (from https://colorlib.com/polygon/elaadmin/css/lib/owl.carousel.min.css)
+17:04:48	Error: 	"Not Found" (404) at link https://colorlib.com/polygon/assets/images/custom-select.png (from https://colorlib.com/polygon/elaadmin/css/style.css)
+17:04:48	Error: 	"Not Found" (404) at link https://colorlib.com/polygon/elaadmin/index2.html (from https://colorlib.com/polygon/elaadmin/email-compose.html)
+17:04:52	Error: 	"Not Found" (404) at link https://colorlib.com/polygon/elaadmin/widget.html (from https://colorlib.com/polygon/elaadmin/email-compose.html)
+17:04:52	Error: 	"Not Found" (404) at link https://colorlib.com/polygon/elaadmin/app-email-compose.html (from https://colorlib.com/polygon/elaadmin/email-read.html)
+17:04:52	Error: 	"Not Found" (404) at link https://colorlib.com/polygon/elaadmin/pages-profile.html (from https://colorlib.com/polygon/elaadmin/page-invoice.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 17 seconds : 515 links scanned, 508 files written (19928459 bytes overall) [8078490 bytes received at 58967 bytes/sec], 17175561 bytes transferred using HTTP compression in 458 files, ratio 28%, 51.5 requests per connection
+(6 errors, 0 warnings, 0 messages)
